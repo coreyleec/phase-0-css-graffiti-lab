@@ -1,1 +1,61 @@
-/* write your override styles here */
+/* skull with ice cream */
+#wall .tag-1{
+    display: none;
+  }
+  /* "none" value removes "parent" class */
+  #wall .parent{
+    display:;
+  }
+  /* curvy arrow top right */
+  div#wall #tag-2{
+    display:none ;
+  }
+  /* White letters */
+  body div#wall #tag-3.slick{
+    display:none;
+  }
+  /* Gorillaz */
+  html body div#wall #tag-4{
+    display:none;
+  }
+  
+  html div#wall .parent #tag-5.slick{
+    display:none;
+  }
+  html div#wall div.parent div:last-child div#tag-6{
+    display:none
+  }
+  html body div#wall div.parent div > #tag-7.slick{
+    display:none;
+  }/* skull with ice cream */
+  #wall .tag-1{
+    display: none;
+  }
+  /* "none" value removes "parent" class */
+  #wall .parent{
+    display:;
+  }
+  /* curvy arrow top right */
+  div#wall #tag-2{
+    display:none ;
+  }
+  /* White letters */
+  body div#wall #tag-3.slick{
+    display:none;
+  }
+  /* Gorillaz */
+  html body div#wall #tag-4{
+    display:none;
+  }
+  /* DANCE */
+  html div#wall .parent #tag-5.slick{
+    display:none;
+  }
+  /* face */
+  html div#wall div.parent div:last-child div#tag-6{
+    display:none
+  }
+  /* banksy */
+  html body div#wall div.parent div > #tag-7.slick{
+    display:none;
+  }
